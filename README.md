@@ -1,2 +1,1 @@
-# -trex
-hola juega
+# C18_LP_AA1
